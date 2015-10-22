@@ -1,12 +1,15 @@
 What is Mazacoin?
   
-  Mazacoin is a digital crypto-currency.  It exists on the block chain (Mazachain) of the miners and full nodes.  The block chain is made up of transactions.
+  Mazacoin is a digital crypto-currency.  It exists on the block chain (Mazachain) of the miners and full nodes.  The block chain is made up of groups of transactions of Mazacoins.
   
   
 How does it work?
-
+  Using wallet software you send Mazacoins from one account to another.
 
 
 How do I use it?
+  
 
+Who backs Mazacoin?
 
+  We back Mazacoin when we use it.  It is freely traded on exchanges around the word.  With this open market, this is where the price comes from.
